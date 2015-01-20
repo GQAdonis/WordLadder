@@ -22,8 +22,8 @@ If I were to consider a threaded option, I would determine the number of cores o
 
 I used IntelliJ IDEA 14 to build this project and manage unit tests and coverage (100% of classes are covered--Main is the only code not covered).
  I excluded the actual .iml files in .gitignore, but you can import the code, set the "test" directory as a test code source, and run all the tests.
- 
- ### Sample Data
+
+### Sample Data
  
  I have included "dict5.txt", which contains the American Dictionary list of 5 letter words.
  
